@@ -1,0 +1,6 @@
+name: MyFirstPlugin
+version: '${project.version}'
+main: com.github.brunoleitec.myfirstplugin.MyFirstPlugin
+api-version: 1.19
+authors: [ BrunoLeiteCosta ]
+description: My first plugin ever
